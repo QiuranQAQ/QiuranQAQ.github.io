@@ -29,6 +29,31 @@
     
     
     <entry>
+      <title>音乐解锁</title>
+      <link href="/2025/03/22/%E9%9F%B3%E4%B9%90%E8%A7%A3%E9%94%81/"/>
+      <url>/2025/03/22/%E9%9F%B3%E4%B9%90%E8%A7%A3%E9%94%81/</url>
+      
+        <content type="html"><![CDATA[<h1 id="音乐解锁"><a href="#音乐解锁" class="headerlink" title="音乐解锁"></a>音乐解锁</h1><p>此工具可将移除已购音乐的加密保护，原作者MengYX</p><p>目前支持 网易云音乐(ncm), QQ音乐(qmc, mflac, mgg), 酷狗音乐(kgm), 虾米音乐(xm), 酷我音乐(.kwm) </p><p><a href="https://demo.unlock-music.dev/">https://demo.unlock-music.dev/</a></p><p><strong>被马哥干（DMCA）了，合理使用魔法可用</strong><br><strong>关于QQ音乐mflac&#x2F;mgg格式</strong><br><strong>目前对于mflac&#x2F;mgg的支持是实验性的，不确定对所有文件有效。</strong><br><strong>如遇见不可解密文件，建议尝试更换客户端</strong><br><strong>截至2020&#x2F;04&#x2F;22，确认仅QQ音乐Windows客户端会生成mgg&#x2F;mflac文件</strong><br><strong>当前已知QQ音乐Windows客户端1763版本及以上会生成512Bytes密钥加密的文件，目前尚无解锁方案，请谨慎更新。</strong></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 骚操作 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 音乐 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>GSG2025+资产</title>
       <link href="/2025/03/22/GSG2025+%E8%B5%84%E4%BA%A7/"/>
       <url>/2025/03/22/GSG2025+%E8%B5%84%E4%BA%A7/</url>
